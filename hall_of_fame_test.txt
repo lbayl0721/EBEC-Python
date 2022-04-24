@@ -1,0 +1,10 @@
+40, Luke
+35, Luke
+32, Graham
+30, Graham
+30, Graham
+30, Luke
+28, Michael
+25, Michael
+20, Steve
+16, Steve
